@@ -6,3 +6,7 @@ dist
 build
 .vimrc
 *.log
+bin
+include
+lib
+.Python

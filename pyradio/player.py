@@ -132,7 +132,7 @@ class MpPlayer(Player):
 class VlcPlayer(Player):
     """Implementation of Player for VLC"""
 
-    PLAYER_CMD = "cvlc"
+    PLAYER_CMD = "/Applications/VLC.app/Contents/MacOS/VLC"
 
     muted = False
 
